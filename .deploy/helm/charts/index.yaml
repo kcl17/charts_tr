@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  Hexa-ebpf:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2024-04-25T04:23:31.227010236Z"
+    description: Helm chart to deploy Hexa-eUPF to Kubernetes
+    digest: b0072240741e62e2e2d9a06d1cb2e721e514470876c5971d4f5a29f0e934e8fd
+    name: Hexa-ebpf
+    urls:
+    - Hexa-ebpf-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-04-25T04:23:31.225958626Z"
